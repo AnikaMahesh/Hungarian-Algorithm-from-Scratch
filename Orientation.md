@@ -1,0 +1,3 @@
+## Orientation
+
+This project's purpose is to implement hungarian algorithm for optimal matching from scratch and compare it to the scipy variant of the algorithm. This algorithm matches a list of quantities to another list of quanties based on a cost matrix. The deliverables of this project is code for the hungarian algorithm in python including tests and a comparison with the scipy hungarian matching algorithm on a matrix. It also includes a report which includes applications, information about the algorithm, a explainer on how the code works and also a discussion on what kind of problems it cannot be applied to. 
