@@ -3,7 +3,7 @@ import random
 import pytest
 from scipy.optimize import linear_sum_assignment
 
-from hungarian import (
+from hungarian_algorithm import (
     hungarian_algorithm,
     transpose,
     find_independent_zeros,
